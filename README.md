@@ -17,6 +17,7 @@ Over the years i was able to gather knowledge and expierence in many fields, to 
 - terraform
 - jira
 - confluence
+- Git / GitHub Actions
 
 ### Topics
 - networking
@@ -25,6 +26,9 @@ Over the years i was able to gather knowledge and expierence in many fields, to 
 - embeded devlopment with arduino
 - project management
 - team leading
+- Cloud Infrastructure using
+  - Digital Ocean
+  - AWS
 
 ## I'm currently working on 
 1. Writing a redis server from scratch!
